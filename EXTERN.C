@@ -1,4 +1,4 @@
-// Extern storage class
+// Extern storage class - global variables
 /*
 	key word 	- extern
 	memory location - data segment
